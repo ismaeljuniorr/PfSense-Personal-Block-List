@@ -1,0 +1,4 @@
+127.0.0.1	baixaki.com.br
+127.0.0.1	baixaki.com
+127.0.0.1	3196813v.ha.azioncdn.net
+
